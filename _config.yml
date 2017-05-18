@@ -1,0 +1,16 @@
+name: learn-anything
+description: Uh oh thinking
+meta_description: "Learn anything"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://learn-anything.github.io'
+google_analytics: 'UA-74470910-3'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Team'
