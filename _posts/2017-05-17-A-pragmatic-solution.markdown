@@ -41,7 +41,7 @@ func distribute(tree:Tree, pt:Pt){/*recursive*/
 #### The present.
 We wont design the spacing algorithm now. As we should focus on other things. The manual positioning is a middle ground for the time-resources we have available. 
 
-<img width="320" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/2017-05-19-150614_1153x895_scrot.png">
+<img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/2017-05-19-150614_1153x895_scrot.png">
 
 #### Easing the manual labour.
 However if adding nodes to the mindmap website is to intensive we could export the json files to .svg that in turn could be edited in Illustrator or sketch. Svg would only by a tool to edit the layout. Svg can do all the things mindmap can do. And then export back to json with coordinates etc. 
