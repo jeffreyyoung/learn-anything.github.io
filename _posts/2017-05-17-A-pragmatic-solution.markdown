@@ -17,10 +17,10 @@ To combine the beautiful layout and the pragmatic community data structure we ne
 
 #### This compromise consists of the following: 
 
-First we scrape all the current mind maps and store them all in 1 folder. Each mindmap must unique file name which is the same as the title. We store the coordinates of each item in each mindmap like: `Philosophy {link:url,pt:{100,100}}` where pt is the relative coordinate and url is the permalink to the resource. 
+First we scrape all the current mind maps and store them all in 1 folder. Each mindmap must have a unique file name which is the same as the title. We store the coordinates of each item in each mindmap like: `Philosophy {link:url,pt:{100,100}}` where pt is the relative coordinate and url is the permalink to the resource. 
 
 #### The drawBack:
-The drawback is that the community will only be able to add/remove/edit content but not the positioning of the item their adding. this still has to be done by Nikita or someone on the team. 
+The drawback is that the community will only be able to add/remove/edit content but not the positioning of the item they're adding. this still has to be done by Nikita or someone on the team. 
 
 #### The future:
 In the future we can deploy an algorithm that designs the mindmaps close to Nikitas current design. Some maps will then have a layout attribute like. layout:leaf which would have a more list like appearance like  [philosphy](https://my.mindnode.com/DaLRfu3ipMHEkhxuzqKTgbZPLmVGTmN7khBS3xqZ#-28.4,-144.3,2) . And layout:tree which would resemble  [devops](https://my.mindnode.com/4pT3AeEEywqSgdxTFBRgq3bmFpLs6s9YSaNMrxZY#150.3,-6.1,-1) 
