@@ -67,9 +67,3 @@ So we will have a hybrid system of around 300 meticulously designed mindmaps tha
 
 #### The future:
 In the future we will store json's on github/mymindnode server, and then parse these into a "graph db" on pr triggered events/interval events. and then the learn anything renderer pulls data from the graph db.
-
-#### Moving json files to new folders:
-If people want to move topics into new folders. They will have to run a replace all "perma" links via a text-editor like Atom.io or VIM
-```
-The RegEx snippet to replace the perma link paths is not created yet. But will be upon first use case. 
-```
