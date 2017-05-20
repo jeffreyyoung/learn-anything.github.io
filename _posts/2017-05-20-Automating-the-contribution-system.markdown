@@ -47,7 +47,7 @@ Adding automation to the project allows us to offer people an easy way to contri
 }
 ```
 
-Now after the pet-groomer-domain-expert has inserted his ❤️ curated links all he has to do is [PR](https://help.github.com/articles/about-pull-requests/) it into the main repository knowledge.map and 💥 the topic is now added to the learn-anything search engine. If he made a mistakes all he has to do is PR it again and correct his mistake. And if other people want to add their hand picked links to the pet grooming set. They do the same. [PR](https://help.github.com/articles/about-pull-requests/) and the world knows more about pet grooming. Here is an example of the auto created mind map after the last PR change:
+Now after the pet-groomer-domain-expert has inserted his ❤️ curated links all he has to do is [PR](https://help.github.com/articles/about-pull-requests/) it into the main repository knowledge.map and 💥 the topic is now added to the learn-anything search engine. If he made a mistake all he has to do is PR it again and correct his mistake. And if other people want to add their hand picked links to the pet grooming set. They do the same. [PR](https://help.github.com/articles/about-pull-requests/) and the world knows more about pet grooming. Here is an example of the auto created mind map after the last PR change:
 
 <img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/petgrooming.png">
 
