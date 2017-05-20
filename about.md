@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[learn-anything.xyz](learn-anything.xyz) is developed with ❤️ by: 
+[learn-anything.xyz](learn-anything.xyz) is made with ❤️ by: 
 
 [nikitavoloboev](https://github.com/nikitavoloboev)  
 [nglgzz](https://github.com/nglgzz)  
