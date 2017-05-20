@@ -1,19 +1,16 @@
 ---
 layout: post
-title:  "A pragmatic solution"
+title:  "Automating the contribution system"
 date:   2017-05-20 19:18:00
 categories: Automation
 author: Eonist
 ---
-Automating the contribution system
 
 In order to scale we needed to add some automation. So we made an algorithm. The "Auto-spacer" And it isn't very intelligent at the moment. All it does is read hierarchical structured `.json` data from github and place each item in a waterfall like structure: 
 
 <img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/devops.png">
 
 In the future we will iterate on the Auto-spacer algorithm and add nice little bells and whistles like horizontal/vertical balancers that intelligently makes room between groups of relates topics. Similar to Nikita meticulously designed mindmaps.
-
-<img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/rabbit.jpeg">
 
 Adding automation to the project allows us to offer people an easy way to contribute their own resources and even new topics. None of us know much about the topic "Pet-grooming". But someone else might and this person can now add their favorite learning resources. Secret gems they as domain experts would only know about. To contribute some Book links all you have to do is insert some new fields in the document bellow: 
 
