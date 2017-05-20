@@ -52,7 +52,7 @@ Now after the pet-groomer-domain-expert has inserted his ❤️ curated links al
 <img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/petgrooming.png">
 
 ## So how does it work?
-.json files are stored and learn-anything renderer pulls in .json files directly from the knowledge.map github repository.
+`.json` files are stored in the knowledge.map github repository and the learn-anything.xyz website pulls these in and renders them.
 
 #### Linking mind maps:
 In each node there is a `url` attribute where you can insert a link to another mind map. The links looks like this:
