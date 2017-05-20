@@ -16,7 +16,7 @@ title: About
 3. Make learn-anything render engine 
 
 
-**If you want to support 👍, ⭐ us:**  
-[knowledge-map](https://github.com/nikitavoloboev/knowledge-map)  
+**If you want to support 👍, ⭐ us on:**  
+[github](https://github.com/nikitavoloboev/knowledge-map)  
 [producthunt](https://www.producthunt.com/posts/knowledge-map-2)   
-[react-mindmap](https://www.npmjs.com/package/react-mindmap)  
+[npmjs](https://www.npmjs.com/package/react-mindmap)  
