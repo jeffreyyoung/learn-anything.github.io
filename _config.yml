@@ -1,6 +1,6 @@
-name: Learn Anything
-description: Making things together
-meta_description: "Learn anything"
+name: learn-anything.xyz
+description: The blog
+meta_description: "You can learn anything"
 
 markdown: kramdown
 highlighter: pygments
