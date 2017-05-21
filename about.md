@@ -13,7 +13,7 @@ title: About
 
 1. Make learn-anything search engine ✅
 2. PR + json backend ✅
-3. Make learn-anything render engine 
+3. Make learn-anything render engine ✅
 
 
 **Support us on:**  
