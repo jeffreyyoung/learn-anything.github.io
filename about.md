@@ -7,7 +7,6 @@ title: About
 
 [nikitavoloboev](https://github.com/nikitavoloboev)  
 [nglgzz](https://github.com/nglgzz)  
-[eonist](https://github.com/eonist)  
 
 **We have these current mile-stones:**  
 
