@@ -28,7 +28,7 @@ For that, we are attempting to create a way where a person can edit the source c
 The end goal is to make this process even simpler by adding 'live edit' functionality to each of the mind map results in the search engine. User can right in the [search engine](https://learn-anything.xyz), press an edit button, move nodes around, add or remove links and then press 'submit button' and a pull request on GitHub will be generated with the changes which can then be reviewed by trusted members of the project.
 
 
-And in this spirit of open source and open knowledge we can effectively visualise and structure all of world's knowledge and in turn accelerate the rate in which a person learns in we ways we could never imagine. 🚀
+And in this spirit of open source and open knowledge we can effectively visualise and structure all of world's knowledge and in turn accelerate the rate in which a person learns in ways we could never imagine. 🚀
 
 If you want to help us on this journey. You can join our ever growing community of learners on [Slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and either help with expanding and improving the mind maps or give a hand in creating the first of its kind, [visual search engine](https://github.com/nikitavoloboev/learn-anything-search#future-). 💙
 
