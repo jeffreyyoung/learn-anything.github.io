@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "No more deployment pain :whale2:"
-date: 2017-05-15 15:18:00
+title: "No more deployment pain"
+date: 2017-05-30 22:56:00
 categories: Automation
 author: Angelo
 ---
