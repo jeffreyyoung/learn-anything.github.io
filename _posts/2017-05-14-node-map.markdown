@@ -8,7 +8,7 @@ author: Angelo
 
 We've been working on the [learn anything](http://learn-anything.xyz/) search engine in the past few days, and we've been trying to make the UX as good as possible.
 
-<img alt="img" src="https://raw.githubusercontent.com/ducksource/img/master/i_want_to_learn.mp4_small.gif">
+<img alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4_small.gif">
 
 However, one problem in our current implementation of the project, is that there's an abrupt discontinuity between search and map navigation, which leads to an unnatural user experience. The reason for this is that maps are currently hosted on MindNode, and loading an iframe on the search engine page would make interactions feel awkward.
 
@@ -18,11 +18,11 @@ A solution for this problem would be to fetch maps data from MindNode and then r
 At first, knowing that there's no public APIs for working with MindNode maps we tried exporting maps as OPML, parsing them to JSON and then rendering them on page. The parsing was an adaptation of [opml2json](https://github.com/vchatterji/opml2json/blob/master/parser.js), while the rendering was done with [js-mindmap](https://github.com/kennethkufluk/js-mindmap). It worked fairly well both on PC and mobile, and it was easy to style, but it had its disadvantages.
 
 **Mobile**
-<img width="320" alt="img" src="https://raw.githubusercontent.com/ducksource/img/master/node_map_mobile_v1.png">
+<img width="320" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/node_map_mobile_v1.png">
 
 First of all the rendering is done with a mix of HTML and SVG (HTML for nodes and SVG for connections), and that may bring performance issues on big maps. However the most important problem is that js-mindmap assumes your mind map to be a tree, which would make many (if not most) of our maps impossible to render.
 
-<img alt="img" src="https://raw.githubusercontent.com/ducksource/img/master/graph_example.png">
+<img alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/graph_example.png">
 
 For instance this part of the map would not be possible to render, as the **infrastructure** node has two parents.
 
@@ -32,16 +32,16 @@ The solution to that last problem was to find a way to render [directed graphs](
 On top of all that, we found that map data can be retrieved from MindNode maps as JSON, so there's no need for parsing anymore, and we're now working with realtime data instead of regularly updated exports.
 
 **Desktop**
-<img width="683" alt="img" src="https://raw.githubusercontent.com/ducksource/img/master/svg_render_take_2_desktop.png">
+<img width="683" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/svg_render_take_2_desktop.png">
 
 **Mobile**
-<img width="202" alt="img" src="https://raw.githubusercontent.com/ducksource/img/master/svg_render_take_2.png">
+<img width="202" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/svg_render_take_2.png">
 
 Even in this case though, not all pros come without cons, and even though we can render all maps from MindNode instantly, if a map is composed of many different graphs, they'll be rendered so far from one another, that they won't appear on screen.
 
-#### TLDR;
+#### TL;DR
 In need of a better UX, we tried some ways to render MindNode maps on the same page as the search engine. We found a possible solution and we'll iterate on that. Currently we need to improve the styling, spacing between nodes, and break down the most complex maps so that they can be rendered nicely.
 
 
-[repo]: https://github.com/ducksource
-[project]:    https://github.com/ducksource/knowledge-map-renderer
+[repo]: https://github.com/learn-anything
+[project]: https://github.com/learn-anything/react-mindmap
