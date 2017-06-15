@@ -37,7 +37,7 @@ There is an [open issue with this](https://github.com/learn-anything/search-engi
 
 The idea is that we make a small web app that will allow to create ‘learning paths’ for learning anything that they can then share with their friends or on the internet. For example a path for becoming a front end developer may be :
 
-programming -\> html -\> css -\> javascript programming language -\> React.js -\> Redux
+[programming](https://learn-anything.xyz/programming) -\> [html](https://learn-anything.xyz/web_development/front_end/html) -\> [CSS](https://learn-anything.xyz/web_development/front_end/css) -\> [Javascript programming language](https://learn-anything.xyz/programming/programming_languages/javascript) -\>[ React.js](https://learn-anything.xyz/web_development/javascript_libraries/react) -\> [Redux](https://learn-anything.xyz/web_development/javascript_libraries/redux)
 
 Where all of the parts of the path link to Learn Anything and thus one can learn anything most optimally in the least amount of time possible. We hope people will be creative with this and create all kinds of learning paths that they can then share with the world.
 
