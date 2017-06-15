@@ -19,7 +19,7 @@ This move will also allow us to make step 2.
 
 All mind maps will live as JSON on [Learn Anything GitHub repo](https://github.com/nikitavoloboev/learn-anything). They will be stored in a very friendly format which will look like this :
 
-http://i.imgur.com/xudrTpc.png
+![](http://i.imgur.com/xudrTpc.png)
 
 This will allow other users to edit the mind maps both directly by editing text and soon after through our visual editor baked in right in the Search Engine.
 
