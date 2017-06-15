@@ -49,4 +49,12 @@ We created a [themes repository](https://github.com/learn-anything/themes) which
 
 We want users to be able to Favourite a mind map or mark it as ‘Learning’ or ‘Learned’. We also want to add a progress bar which marks how many mind maps from all of the available ones you have ‘Learned’. We hope this will add playfulness and engagement to learning especially since number of mind maps will be increasing with every day.
 
-These are just the 6 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together. 💚
+### 7. Each Mind Map has Community crated flashcards that help learn the topic
+
+We created a [Flashcards](https://github.com/learn-anything/flashcards) repository that will act as Community curated list of decks that target each of the mind maps in Learn Anything. Each deck is responsible for effectively testing knowledge of some topic in Learn Anything.
+
+We hope this will accelerate learning even faster as we will provide both best of the best resources, all laid out in a linear way and also community curated flash cards that help consolidate the knowledge gained in learning some specific topic.
+
+### Help us. 💙
+
+These are just the 6 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together.
