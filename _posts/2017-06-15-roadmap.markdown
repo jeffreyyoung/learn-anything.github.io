@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Learn Anything Roadmap"
+date: 2017-06-15 15:18:00
+author: Team
+---
+
+We want to visualise all of world’s knowledge and provide the most efficient paths to learn in a linear way and do it all with the help of community and a very powerful [Open Source Search Engine](https://github.com/learn-anything/search-engine).
+
+To get there, we have to go through a series of goals. Here are the goals that we want to overcome, one by one to get us closer to this goal.
+
+### 1. Move our renderer to D3.js
+
+This will give our users much smoother experience both on Desktop and mobile devices. Better and smoother panning around and zooming. Even faster load times as now the mind maps will weigh even less than before.
+
+This move will also allow us to make step 2.
+
+### 2. Put all the mind maps as JSON on GitHub
+
+All mind maps will live as JSON on [Learn Anything GitHub repo](https://github.com/nikitavoloboev/learn-anything). They will be stored in a very friendly format which will look like this :
+
+http://i.imgur.com/xudrTpc.png
+
+This will allow other users to edit the mind maps both directly by editing text and soon after through our visual editor baked in right in the Search Engine.
+
+### 3. All mind maps may have prerequisite knowledge
+
+There is an [open issue](https://github.com/learn-anything/search-engine/issues/30) in the Search Engine if anyone wants to help make this.
+
+The idea is that all mind maps may have prerequisite knowledge that is needed to effectively learn the topic. For example Machine Learning may have ‘[Linear Algebra](https://learn-anything.xyz/mathematics/linear_algebra)’ and ’[Statistics](https://learn-anything.xyz/mathematics/statistics)’ stated  as needed knowledge right in the mind map for [machine learning](https://learn-anything.xyz/machine_learning), where both statistics and linear algebra will be links to mind maps.
+
+This prerequisite knowledge will also be editable by users of the Search Engine in case they think that something is missing or wrong.
+
+###  4.  We create ability for users to create custom learning tracks they can share
+
+There is an [open issue with this](https://github.com/learn-anything/search-engine/issues/45) in the Search Engine if anyone wants to help make this.
+
+The idea is that we make a small web app that will allow to create ‘learning paths’ for learning anything that they can then share with their friends or on the internet. For example a path for becoming a front end developer may be :
+
+programming -\> html -\> css -\> javascript programming language -\> React.js -\> Redux
+
+Where all of the parts of the path link to Learn Anything and thus one can learn anything most optimally in the least amount of time possible. We hope people will be creative with this and create all kinds of learning paths that they can then share with the world.
+
+### 5. We allow users to create and use their own custom themes
+
+We created a [themes repository](https://github.com/learn-anything/themes) which will act as storage for all the various custom themes users of our search can create. Perhaps someone likes a white background or to have all connections be of some colour he likes. He can create a theme and submit it to the repository and after it is accepted, all users of the Search Engine can pick through the multitude of themes that were created.
+
+### 6. We add user authentication to allow for more personalised learning
+
+We want users to be able to Favourite a mind map or mark it as ‘Learning’ or ‘Learned’. We also want to add a progress bar which marks how many mind maps from all of the available ones you have ‘Learned’. We hope this will add playfulness and engagement to learning especially since number of mind maps will be increasing with every day.
+
+These are just the 6 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together. 💚
