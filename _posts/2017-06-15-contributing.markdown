@@ -11,7 +11,7 @@ There are many ways in which you can help. But before you do, it is best to read
 
 ## 1. You can Improve the available mind maps 🗺
 
-All mind maps live on [GitHub](https://github.com/nikitavoloboev/learn-anything) and the content of them can be improved. However before adding any changes, please make sure that it follows our Mind Map Design Guidelines. In there you will also find how you can make any changes as well as what content can be accepted.
+All mind maps live on [GitHub](https://github.com/nikitavoloboev/learn-anything) and the content of them can be improved. However before adding any changes, please make sure that it follows our [Mind Map Design Guidelines](https://learn-anything.github.io/2017/06/15/mind-map-design.html). In there you will also find how you can make any changes as well as what content can be accepted.
 
 The reason these guidelines exist is because we want to make sure the mind maps are both of the highest quality in terms of resources but also so that they are not too overwhelming visually. All mind maps should feel familiar so that finding the resource you need is as effortless as possible.
 
@@ -19,7 +19,7 @@ Also if there is a free version of a book available, please swap the link. In a 
 
 ## 2. You can add new mind maps or change location of current mind maps 🗺
 
-If you want to add a new mind map for some topic that is not covered. You can do this by [creating a new issue on GitHub](https://github.com/nikitavoloboev/learn-anything/issues/new) saying what topic you wish was covered and where would it make sense to put it. In future this process too can be made through directly adding new JSON files in the appropriate location in the knowledge graph hierarchy. Once again, please familiarise yourself with Design Guidelines before adding any changes.
+If you want to add a new mind map for some topic that is not covered. You can do this by [creating a new issue on GitHub](https://github.com/nikitavoloboev/learn-anything/issues/new) saying what topic you wish was covered and where would it make sense to put it. In future this process too can be made through directly adding new JSON files in the appropriate location in the knowledge graph hierarchy. Once again, please familiarise yourself with [Design Guidelines](https://learn-anything.github.io/2017/06/15/mind-map-design.html) before adding any changes.
 
 ## 3. You can help improve our [Open Source Search Engine](https://github.com/learn-anything/search-engine) for these mind maps 🔎
 
