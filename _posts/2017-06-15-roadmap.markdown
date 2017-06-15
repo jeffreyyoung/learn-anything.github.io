@@ -58,3 +58,5 @@ We hope this will accelerate learning even faster as we will provide both best o
 ### Help us. 💙
 
 These are just the 6 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together.
+
+The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
