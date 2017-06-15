@@ -43,7 +43,7 @@ Where all of the parts of the path link to Learn Anything and thus one can learn
 
 ### 5. We allow users to create and use their own custom themes
 
-We created a [themes repository](https://github.com/learn-anything/themes) which will act as storage for all the various custom themes users of our search can create. Perhaps someone likes a white background or to have all connections be of some colour he likes. He can create a theme and submit it to the repository and after it is accepted, all users of the Search Engine can pick through the multitude of themes that were created.
+We created a [themes repository](https://github.com/learn-anything/themes) which will act as storage for all the various custom themes users of our search can create. Perhaps someone likes a white background or wants to have all connections be of some colour he likes. He can create a theme and submit it to the repository and after it is accepted, all users of the Search Engine can pick through the multitude of themes that were created.
 
 ### 6. We add user authentication to allow for more personalised learning
 
