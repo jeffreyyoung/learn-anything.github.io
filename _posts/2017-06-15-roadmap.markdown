@@ -5,17 +5,19 @@ date: 2017-06-15 15:18:00
 author: Team
 ---
 
-We want to visualise all of world’s knowledge and provide the most efficient paths to learn in a linear way and do it all with the help of community and a very powerful [Open Source Search Engine](https://github.com/learn-anything/search-engine).
+We want to [visualise all of world’s knowledge](https://learn-anything.xyz/learn-anything) and provide the most efficient paths to learn in a linear way and do it all with the help of community and a very powerful [Open Source Search Engine](https://github.com/learn-anything/search-engine).
 
-To get there, we have to go through a series of goals. Here are the goals that we want to overcome, one by one to get us closer to this goal.
+To get there, we have to go through a series of goals. Here are the goals that we want to overcome, one by one to get us closer to this goal. 
 
-### 1. Move our renderer to D3.js
+Goals with ✅ in the end are already complete. 
+
+### 1. Move our renderer to D3.js ✅
 
 This will give our users much smoother experience both on Desktop and mobile devices. Better and smoother panning around and zooming. Even faster load times as now the mind maps will weigh even less than before.
 
 This move will also allow us to make step 2.
 
-### 2. Put all the mind maps as JSON on GitHub
+### 2. Put all the mind maps as JSON on GitHub ✅
 
 All mind maps will live as JSON on [Learn Anything GitHub repo](https://github.com/nikitavoloboev/learn-anything). They will be stored in a very friendly format which will look like this :
 
@@ -23,7 +25,7 @@ All mind maps will live as JSON on [Learn Anything GitHub repo](https://github.c
 
 This will allow other users to edit the mind maps both directly by editing text and soon after through our visual editor baked in right in the Search Engine.
 
-### 3. All mind maps may have prerequisite knowledge
+### 3. All mind maps may have prerequisite knowledge 
 
 There is an [open issue](https://github.com/learn-anything/search-engine/issues/30) in the Search Engine if anyone wants to help make this.
 
@@ -41,15 +43,15 @@ The idea is that we make a small web app that will allow to create ‘learning p
 
 Where all of the parts of the path link to Learn Anything and thus one can learn anything most optimally in the least amount of time possible. We hope people will be creative with this and create all kinds of learning paths that they can then share with the world.
 
-### 5. We allow users to create and use their own custom themes
+### 5. We allow users to create and use their own custom themes 
 
 We created a [themes repository](https://github.com/learn-anything/themes) which will act as storage for all the various custom themes users of our search can create. Perhaps someone likes a white background or wants to have all connections be of some colour he likes. He can create a theme and submit it to the repository and after it is accepted, all users of the Search Engine can pick through the multitude of themes that were created.
 
-### 6. We add user authentication to allow for more personalised learning
+### 6. We add user authentication to allow for more personalised learning 
 
 We want users to be able to Favourite a mind map or mark it as ‘Learning’ or ‘Learned’. We also want to add a progress bar which marks how many mind maps from all of the available ones you have ‘Learned’. We hope this will add playfulness and engagement to learning especially since number of mind maps will be increasing with every day.
 
-### 7. Each Mind Map has Community crated flashcards that help learn the topic
+### 7. Each Mind Map has Community created flashcards that help learn the topic
 
 We created a [Flashcards](https://github.com/learn-anything/flashcards) repository that will act as Community curated list of decks that target each of the mind maps in Learn Anything. Each deck is responsible for effectively testing knowledge of some topic in Learn Anything.
 
@@ -57,6 +59,8 @@ We hope this will accelerate learning even faster as we will provide both best o
 
 ### Help us. 💙
 
-These are just the 6 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together.
+These are just the 7 big milestones that we want to complete as soon as possible. If you want to help us on this journey, please do. 
+
+You can join [our Slack Group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss new ideas and work on the existing problems together.
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
