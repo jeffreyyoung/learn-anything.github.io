@@ -1,5 +1,4 @@
 name: learn-anything.xyz
-baseurl: ../
 description: The blog
 meta_description: "You can learn anything"
 
@@ -7,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: ../
 domain_name: 'http://learn-anything.github.io'
 google_analytics: 'UA-74470910-3'
 gems: [jekyll-paginate]
