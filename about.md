@@ -7,6 +7,7 @@ title: About
 
 [nikitavoloboev](https://github.com/nikitavoloboev)
 [nglgzz](https://github.com/nglgzz)
+and [you](https://github.com/nikitavoloboev/learn-anything/graphs/contributors)
 
 **We have these current mile-stones:**
 
