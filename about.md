@@ -11,8 +11,9 @@ title: About
 **We have these current mile-stones:**
 
 1. Make learn-anything search engine ✅
-2. Move our [current mind map](https://github.com/learn-anything/react-mindmap) render to [D3.js](https://github.com/d3/d3)
+2. Move our [current mind map](https://github.com/learn-anything/react-mindmap) render to [D3.js](https://github.com/d3/d3)✅
 3. Ease contribution system
+4. Personalise learning with Authentication
 
 **Support us on:**
 [github](https://github.com/nikitavoloboev/knowledge-map)
