@@ -1,4 +1,5 @@
 name: learn-anything.xyz
+baseurl: ../
 description: The blog
 meta_description: "You can learn anything"
 
